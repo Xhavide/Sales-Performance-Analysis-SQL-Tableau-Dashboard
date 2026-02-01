@@ -4,8 +4,8 @@
 
 This project analyzes retail sales data using **SQL for data validation, cleaning, and KPI calculation, and Tableau for interactive dashboard visualization.**
 
-The objective was to transform raw transactional data into meaningful business insights by applying structured data analysis techniques and building a performance dashboard that supports data-driven decision-making.
-
+The objective was to transform raw transactional retail data into actionable business insights by designing structured queries, calculating performance metrics, and building an interactive dashboard to support data-driven decision-making.
+The analysis focuses on revenue performance, profitability drivers, customer behavior, and regional performance optimization.
 
 
 ---
@@ -119,9 +119,8 @@ The following KPIs were engineered using SQL:
 - Tableau – Interactive dashboard design and visualization
 - Superstore Dataset – Retail transactional data
 
-  ------------
-
-  ## 📊 Dashboard Overview
+------------
+ ## 📊 Dashboard Overview
 
   The Tableau dashboard includes:
 - Executive KPI summary panel
@@ -130,11 +129,29 @@ The following KPIs were engineered using SQL:
 - Customer order distribution
 - Top-performing customers and states
 
- 🔗 Live Dashboard: ( [Tableau Public](https://public.tableau.com/app/profile/xhavide.zymberi/viz/CUSTOMERSDASHBOARD/SUPERSTORESALESDASHBOARD)  )
+🔗 Live Dashboard: ( [Tableau Public](https://public.tableau.com/app/profile/xhavide.zymberi/viz/CUSTOMERSDASHBOARD/SUPERSTORESALESDASHBOARD)  )
 
+------------
+## 🧠 Key Insights
 
+- A small group of customers contributes significantly to overall profit
+- Profitability varies considerably across states
+- Sales are concentrated within specific product sub-categories
+- Customer purchasing behavior shows a mix of high-frequency and occasional buyers
 
+-----------
 
+## 👩‍💻 Author
+
+**Xhavide Zymberi Ebibi**
+
+Data Analyst Enthusiast | SQL & Business Intelligence 
+
+[GitHub]()
+
+[LinkedIn](https://www.linkedin.com/in/xhavide-zymberi/) 
+
+[Tableau Public](https://public.tableau.com/app/profile/xhavide.zymberi/vizzes) 
 
 
 
