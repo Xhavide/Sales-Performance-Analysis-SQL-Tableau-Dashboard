@@ -1,4 +1,4 @@
-# 📊 Sales Performance Analysis | SQL & Tableau Dashboard
+# 📊 Sales Performance Analysis|SQL & Tableau Dashboard
 
 ### 📌 Project Overview
 
