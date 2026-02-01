@@ -71,6 +71,73 @@ These rows were introduced during the CSV import process and contained NULL valu
 
 - Analysis performed on cleaned dataset (*Superstore_Cleaned*)
 
+--------
+
+
+### 📈 Key Performance Indicators (KPIs)
+
+The following KPIs were engineered using SQL:
+
+- 💰 Total Sales
+
+- 📊 Total Profit
+
+- 📦 Total Quantity Sold
+
+- 🧾 Total Orders
+
+- 👥 Total Unique Customers
+
+- 🛒 Average Sales per Customer
+
+-----------
+
+
+## 📊 Analysis Performed
+**🔹 Sales Analysis**
+
+- Sales by Sub-Category
+- Sales by Segment
+- Revenue trends over time
+
+**🔹 Profitability Analysis**
+
+- Top 10 States by Profit
+- Top 10 Customers by Profit
+- Profit distribution across segments
+
+**🔹 Customer Analysis**
+
+- Orders per customer
+- Customer distribution by purchase frequency
+- Identification of high-value customers
+-------------
+
+## 🛠 Tools & Technologies
+
+- SQL Server – Data validation, cleaning, and KPI calculations
+- Tableau – Interactive dashboard design and visualization
+- Superstore Dataset – Retail transactional data
+
+  ------------
+
+  ## 📊 Dashboard Overview
+
+  The Tableau dashboard includes:
+- Executive KPI summary panel
+- Sales performance by category, sub-category and segment
+- Regional profitability analysis
+- Customer order distribution
+- Top-performing customers and states
+
+ 🔗 Live Dashboard: ( [Tableau Public](https://public.tableau.com/app/profile/xhavide.zymberi/viz/CUSTOMERSDASHBOARD/SUPERSTORESALESDASHBOARD)  )
+
+
+
+
+
+
+
 
 
 
