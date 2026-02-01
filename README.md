@@ -36,3 +36,53 @@ This project demonstrates core data analyst skills including data cleaning, KPI 
 - Evaluate regional and product-level profitability
 
 - Build an interactive Tableau dashboard for business insights
+---------
+
+
+## 🧹Data Cleaning & Validation
+### 🔎 Initial Data Assessment
+
+During data validation, **501 fully empty rows** were identified.
+These rows were introduced during the CSV import process and contained NULL values across all critical business columns.
+
+
+
+### 🛠 Cleaning Steps Performed
+
+**1.** Measured total row count before cleaning
+
+**2.** Identified fully empty rows using NULL validation
+
+**3.** Created a cleaned dataset excluding invalid records
+
+**4.** Validated row count after cleaning to ensure accuracy
+
+
+
+### ✅ Validation Results
+
+- Total Rows Before Cleaning: **32985**
+
+- Fully Empty Rows Identified: **501**
+
+- Total Rows After Cleaning: **32484**
+
+- Rows Removed: **501**
+
+- Analysis performed on cleaned dataset (*Superstore_Cleaned*)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
