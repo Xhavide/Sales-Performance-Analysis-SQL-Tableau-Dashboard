@@ -1,14 +1,13 @@
 # 📊 Sales Performance Analysis|SQL & Tableau Dashboard
 
-### 📌 Project Overview
+### 📌 **Executive Summary**
 
-This project analyzes retail sales data using **SQL for data validation, cleaning, and KPI calculation, and Tableau for interactive dashboard visualization.**
+This end-to-end data analysis project explores 10 years of sales performance using SQL Server and Tableau. The analysis uncovers revenue volatility, customer profitability concentration, regional performance trends, and product-level margin insights. The dashboard supports data-driven decision-making focused on growth, retention, and profitability optimization.
 
-The objective was to transform raw transactional retail data into actionable business insights by designing structured queries, calculating performance metrics, and building an interactive dashboard to support data-driven decision-making.
-The analysis focuses on revenue performance, profitability drivers, customer behavior, and regional performance optimization.
+### 🔎 Project Overview
 
-
----
+This project analyzes retail sales data using SQL for data validation, cleaning, and KPI calculation, and Tableau for interactive dashboard visualization.
+The objective was to transform raw transactional data into structured insights through query design, performance metric calculation, and interactive dashboard development.
 
 
 
