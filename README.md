@@ -130,12 +130,76 @@ The following KPIs were engineered using SQL:
 🔗 Live Dashboard: ( [Tableau Public](https://public.tableau.com/app/profile/xhavide.zymberi/viz/CUSTOMERSDASHBOARD/SUPERSTORESALESDASHBOARD)  )
 
 ------------
-## 🧠 Key Insights
+## 📊 Key Insights & Business Values
 
-- A small group of customers contributes significantly to overall profit
-- Profitability varies considerably across states
-- Sales are concentrated within specific product sub-categories
-- Customer purchasing behavior shows a mix of high-frequency and occasional buyers
+
+                                                                 
+
+1️⃣ **Sales Performance Trends (10-Year Analysis)**              
+🧠**Insight** 
+
+- **Best Year:** 2021 with **+134.2% YoY growth**
+- **Worst Year:** 2023 with **−49.6% decline**
+  
+ 📈 **Business Value**:
+ The sharp 49.6% decline in 2023 indicates high revenue sensitivity, emphasizing the need for forecasting models and demand monitoring.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+2️⃣ **Customer & Segment Performance**
+
+🧠**Insight**
+
+- **Top Segment:** Consumer (followed by Corporate)
+- Revenue and profit are concentrated among top customers
+
+📈**Business Value:**
+  Customer retention strategies should prioritize high-profit customers. Consumer segment remains a strategic growth driver.
+
+ ---------------------------------------------------------------------------------------------------------------------------  
+3️⃣ **Regional & Geographic Insights**
+
+🧠**Insight**
+
+- **Top Region:** West
+- **Leading State by Profit:** California (followed by New York)
+
+📈**Business Value:**
+Geographic profit concentration suggests expansion opportunities in underperforming regions while reinforcing strong markets.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+4️⃣ **Category & Sub-Category Performance**
+
+🧠**Insight**
+
+
+- **Strongest Category:** Technology (followed by Furniture)
+- **Highest Sales Sub-Category:** Chairs, then Phones
+- **Most Profitable Sub-Category:** Copiers, followed by Accessories
+- **Loss-Generating Sub-Categories:** Tables and Machines
+
+
+📈**Business Value:**
+High sales do not always equal high profitability.
+Strategic focus should include:
+
+- Scaling high-margin products (Copiers, Accessories)
+- Reviewing pricing and cost structures for loss-generating products
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🚀 **Conclusion**
+
+This project simulates real-world business analysis by transforming raw transactional data into actionable insights that support data-driven decisions related to growth optimization, margin improvement, and customer retention initiatives.
+
+
+
+
+                                                                         
+
+   
+
+
 
 -----------
 
@@ -143,7 +207,7 @@ The following KPIs were engineered using SQL:
 
 **Xhavide Zymberi Ebibi**
 
-Data Analyst Enthusiast | SQL & Business Intelligence 
+Data Analyst Enthusiast | SQL & Business Intelligence | Tableau | Marketing Professional
 
 [GitHub]()
 
