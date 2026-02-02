@@ -13,7 +13,7 @@ The analysis focuses on revenue performance, profitability drivers, customer beh
 
 
 
-## 📊 Tableau Dashboard Preview
+## 🖥️ Tableau Dashboard Preview
 
 
 ![Dashboard Overview](https://github.com/Xhavide/Sales-Performance-Analysis-SQL-Tableau-Dashboard/blob/main/Screenshot%202026-02-01%20004928(1).png
