@@ -28,14 +28,13 @@ The analysis focuses on revenue performance, profitability drivers, customer beh
 ## 🎯 Project Objectives
 
 - Validate and clean raw sales data
-
 - Develop key performance indicators (KPIs) using SQL
+- Analyze 10-year sales trends and year-over-year growth
+- Identify top-performing customers, regions, and product categories
+- Evaluate profitability drivers at customer and product levels
+- Detect loss-generating products
+- Deliver interactive dashboard insights for business decision-making
 
-- Analyze customer purchasing behavior
-
-- Evaluate regional and product-level profitability
-
-- Build an interactive Tableau dashboard for business insights
 ---------
 
 
@@ -116,7 +115,7 @@ The following KPIs were engineered using SQL:
 ## 🛠 Tools & Technologies
 
 - SQL Server – Data validation, cleaning, and KPI calculations
-- Tableau – Interactive dashboard design and visualization
+- Tableau – Data visualization & interactive dashboard
 - Superstore Dataset – Retail transactional data
 
 ------------
